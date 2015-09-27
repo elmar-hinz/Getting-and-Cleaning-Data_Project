@@ -2,6 +2,7 @@ Only one script was used to process the data into the final dataset as outlined 
 
 This document will step through how to process the data to obtain the same results using the run_analysis.R script so the user can replicate the results.  The basic logic steps used in the R script will also be covered.
 
+######See CodeBook.md for information on the source data, variables and original context of the data.
 
 Script preparation and output:
  1. The raw data used in this exercise can be found at the following address; download and extract it to the R working directory. https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
